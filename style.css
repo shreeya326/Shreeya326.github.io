@@ -13,7 +13,8 @@ html, body, {
 .intro{
 height: 300px;
 width: 100%;
-padding: 100px;
+   margin:10px; 
+padding: 50px;
 opacity: 0.6;
 background-color: black;
 
