@@ -1,17 +1,17 @@
+@media only screen and (max-width: 300px) {
+  body {
+      background-color: lightblue;
 
-@media only screen and (max-width: 600px) {
-.whole{
-       background-color: lightblue;
- 
-
-
+  }
 }
-}
+
 .intro{
- 
+height: 300px;
+widows: 100%;
+padding: 100px;
 opacity: 0.6;
 background-color: black;
-margin:15px;
+
 
 
 }
