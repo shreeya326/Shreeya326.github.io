@@ -3,12 +3,12 @@
 .whole{
        background-color: lightblue;
  
-  background-image:fixed;
-margin: 25px;
+
+
 }
 }
 .intro{
-  padding:300px;
+  padding:100px;
 opacity: 0.6;
 background-color: black;
 
@@ -45,6 +45,6 @@ p{
 }
 
 .contact{
-  padding: 300px;
+  padding: 200px;
   background-color: black;
 }
