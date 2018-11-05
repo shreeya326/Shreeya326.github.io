@@ -1,0 +1,48 @@
+.whole{
+  
+  background-color: white;
+  background-image:fixed;
+margin: 25px;
+}
+
+.intro{
+  padding:300px;
+opacity: 0.6;
+background-color: black;
+
+
+
+}
+h1{
+  
+
+  color: white;
+  padding:20px;
+  margin-left: 60px;
+  font-size: 70px;
+  
+  font-style: italic;
+}
+p{
+  color: white;
+}
+
+.portfolio{
+  
+  
+
+  padding: 200px;
+  background-color:white
+
+
+}
+.skills{
+  padding:300px;
+ 
+
+}
+
+.contact{
+  padding: 300px;
+  background-color: black;
+}
