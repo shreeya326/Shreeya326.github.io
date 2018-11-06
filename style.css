@@ -10,7 +10,7 @@ nav{
   background-color:#222323;
   color:#fff;
  position:fixed;
-  padding:60px;
+
 }
 
 
@@ -102,13 +102,15 @@ background-color:white;
 opacity:0.4;
 }
 .work h2{
+ 
   color:black;
   height: 50px;
   text-align:center;
-  line-height:50px;
-  font-size:20pt;
   text-transform:uppercase;
-
+  font-size: 50pt;
+  line-height:50px;
+  text-shadow: 5px 5px 10px #000;
+   
 }
 .skills{
   width:100%;
