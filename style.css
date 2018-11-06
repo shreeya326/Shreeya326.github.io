@@ -10,6 +10,7 @@ nav{
   background-color:#222323;
   color:#fff;
  position:fixed;
+  padding:60px;
 }
 
 
@@ -115,7 +116,7 @@ opacity:0.4;
   background-color:white;
   opacity:0.4;
   background-position:0px 55px;
-  padding-top: 60px;
+  padding: 60px;
 background-size: 100%;
 
 }
@@ -162,7 +163,7 @@ progress::-webkit-progress-value {
     background-color:black;
     opacity:0.4;
     background-position:0px 55px;
-    padding-top: 60px;
+    padding: 60px;
   background-size: 100%;
   
   }
@@ -187,7 +188,7 @@ progress::-webkit-progress-value {
     background-color:white;
     opacity:0.4;
     background-position:0px 55px;
-    padding-top: 60px;
+    padding: 60px;
   background-size: 100%;
   
   }
