@@ -6,12 +6,28 @@
 }
 
 
-	@media only screen and (max-width: 510px) {
+	@media only screen and (max-width: 480px) {
     body {
         width: 100%;
-      
+	   
     }
+		.home div h1{
+			font-size: 20px;
+	
 }
+		.home div h2{
+		font-size: 14px;
+		}
+		.work h2{
+		font-size: 20px;
+		}
+		.skills h1{
+		font-size: 20px;
+		}
+}
+		
+		
+
 
 nav{
   width:100%;
