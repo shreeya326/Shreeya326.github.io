@@ -1,0 +1,109 @@
+.web-content{
+
+max-width: 650;
+font-family: sans-serif;
+  margin: 0px auto;
+  overflow:hidden;
+  border-radius: 5px;
+  text-align:center;
+  background:#FAA30D;
+  padding: 20px;
+}
+
+.home{
+width: 100%;
+height: 500px;
+padding: 10px 0px 20px 10px;
+margin-top: 0px;
+background:  white;
+
+}
+
+.home h1{
+  padding: 50px 0px 20px 10px;
+  color: black;
+}
+
+.home p{
+  padding: 50px 0px 20px 10px;
+  color: black;
+  font-size: 20px;
+
+}
+
+
+.work{
+  width: 100%;
+  height: 700px;
+ 
+
+
+}
+.work h2{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 5px;
+}
+
+.work a img{
+border: 4px solid black;
+margin-top: 20px;
+padding: 10px;
+}
+
+.skills{
+  padding-top: 50px;
+  width: 100%;
+  height: 400px;
+  background:white;
+}
+.skills progress{
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+.aboutme{
+
+  width: 100%;
+  height: 300px;
+
+}
+.aboutme h1{
+padding-top: 20px;
+  margin-top: 20px;
+}
+.aboutme p{
+  font-size: 15px;
+  border: 1px solid black;
+margin: 20px 20px 20px 20px;
+padding: 20px;
+text-align: center;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.contact{
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+
+}
+
+.footer{
+  color:black;
+  padding-top: 20px;
+  background-color: white;
+ line-height: 20px;
+width:100%;
+  font-family: sans-serif;
+font-size: 10px;
+}
+
+
+
+
+
+
+
+  
