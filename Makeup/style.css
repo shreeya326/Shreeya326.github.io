@@ -1,0 +1,60 @@
+
+
+.email-background{
+  background: #eee;
+ 
+
+}
+.email-container{
+  max-width: 800px;
+  background: black;
+  font-family: sans-serif;
+  margin: 0px auto;
+  overflow:hidden;
+ 
+  text-align:center;
+  
+}
+.email-container img{
+  max-width:100%;
+ }
+.banner{
+
+ height: 250px;
+}
+.thirdrow{
+  height: 250px;
+}
+.text h1{
+  color:white;
+  font-size: 25px;
+  font-family: cursive;
+}
+h2{
+
+  color:#723a3a;
+  font-family: cursive;
+}
+
+.text2 a {
+  text-decoration:none;
+  display: inline-block;
+  background: #723a3a;
+  color:white;
+  padding: 10px 10px;
+  border-radius: 5px;
+
+}
+.text2 h2 {
+  
+  color:white;
+
+}
+.footer{
+  background-color: #d3d3d3;
+ line-height: 20px;
+ max-width: 500px;
+  font-family: sans-serif;
+font-size: 10px;
+
+}
